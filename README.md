@@ -1,0 +1,2 @@
+# flashcoin
+flashcoin ez
